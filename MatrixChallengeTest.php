@@ -1,12 +1,7 @@
 <?php
 
 require_once 'MatrixChallenge.php';
-/**
- * Created by PhpStorm.
- * User: disc
- * Date: 21.01.2016
- * Time: 14:58
- */
+
 class MatrixChallengeTest extends PHPUnit_Framework_TestCase
 {
     protected static $testMatrix = array(
